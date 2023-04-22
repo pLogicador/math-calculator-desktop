@@ -1,5 +1,5 @@
 ### Calculadora
-### Application that simulates a simple calculator that was developed in a day and a half using the c++ language as a base..
+### Application that simulates a simple calculator! It was developed in a day and a half using the c++ language as a base along with the Qt creator framework...
 
  follow the instructions below:
  
