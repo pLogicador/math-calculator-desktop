@@ -1,5 +1,5 @@
 ### Calculadora
-### I developed an application that simulates a simple calculator! Created in a day and a half using the c++ language as a base along with the Qt creator framework...
+### I developed an application that simulates a simple calculator! Created in a day and a half using the c++ language as a base along with the Qt Creator framework...
 
  follow the instructions below:
  
