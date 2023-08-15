@@ -1,3 +1,12 @@
+// Nome do arquivo: mainwindow.cpp
+// Autor: Pedro Emanuel Silva Miranda
+// Data: 14/08/2023
+// Descrição: Este é um programa de calculadora simples que realiza operações matemáticas básicas.
+//            Note que nessa nova atualização acrescentei um "Tratamento de Exceção" para a divisão
+//            por zero. Espero que aproveitem
+
+/*OBS: apenas este código foi atualizado*/
+
 
 #include "mainwindow.h"
 #include "./ui_mainwindow.h"
@@ -57,7 +66,7 @@ MainWindow::~MainWindow()
 
 
 
-// Para os números pressionados
+// Realiza a operação matemática quando um botão numérico é pressionado.
 void MainWindow::NumPressionado()
 {
     QPushButton *button = (QPushButton *) sender();
@@ -77,7 +86,9 @@ void MainWindow::NumPressionado()
     }
 }
 
-// Para os botões algébricos pressionados
+
+
+// Realiza a operação matemática quando um botão de operador algébrico é pressionado.
 void MainWindow::MatButtonPressionado()
 {
     // Rastreamento dos botões clicados
@@ -123,6 +134,9 @@ void MainWindow::MatButtonPressionado()
 
 }
 
+
+
+// Calcula o resultado da expressão matemática.
 void MainWindow::IgualButton()
 {
     double solucao = 0.0;           // Mantém o cálculo para chamar a solução
@@ -133,9 +147,15 @@ void MainWindow::IgualButton()
 
     if ( divAciona ||  multipAciona || somaAciona || subtAciona || porcentAciona )   // Verifica se o botão algébrico foi selecionado
     {
+
         if ( divAciona )
         {
-            solucao = calculaValor / dblValorDisplay;
+            if (dblValorDisplay == 0.0)
+            {
+                ui->Display->setText("Divisão por Zero");
+                return;     // Retorna para evitar cálculos incorretos
+            }
+            solucao = calculaValor / dblValorDisplay;       // Realize a operação de divisão normalmente, pois o denominador não é zero.
         }
         else
             if ( multipAciona )
@@ -165,6 +185,9 @@ void MainWindow::IgualButton()
 
 }
 
+
+
+// Limpa a tela da calculadora.
 void MainWindow::LimpaTela()
 {
     double solucao = 0.0;
@@ -183,6 +206,9 @@ void MainWindow::LimpaTela()
     ui->Display->setText( QString::number( solucao ));  // Retorna para a interface do usuário
 }
 
+
+
+// Inverte o sinal do número exibido na tela.
 void MainWindow::MudaSinalNumero()
 {
     // Armazena o valor atual no display para obter o texto de exibição para executar o método
