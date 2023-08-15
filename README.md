@@ -3,11 +3,14 @@
 
  follow the instructions below:
  
- As you can see, in the 'calculator' folder are the files and tools I used when developing the mainwindow and main example script in .cpp and the main header.
- The next folder is 'instalador_calculator' and it contains the executable file if you want to try it out.
+ As you can see, in the 'calculator' folder are the code files and tools I used when developing the main window and the main example script in .cpp and the main header.
+ The next folder is 'installer_calculator' and contains the executable file (currently out of date on 8/14/23) if you'd like to try it out.
  
  
  
-### Screenshot of the executable example:
+current photo of the code being executed directly by QT creator. Updated on 08/14/2023
  
- ![Captura de Tela (36)](https://user-images.githubusercontent.com/113561981/233789677-5bc959fd-0d2e-4675-b475-e6b6a15bfce9.png)
+ ![codigoCalculadora (2)](https://github.com/pLogicador/Calculadora/assets/113561981/02f33f17-f672-4164-88a1-962e556c3a5a)
+
+
+
