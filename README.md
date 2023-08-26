@@ -9,7 +9,8 @@ As you can see, in the 'calculator' folder are the code files and tools I used w
  
 Current photo of executable file being run directly by QT creator on desktop on 26/08/2023
  
-![Captura de tela 2023-08-26 021956](https://github.com/pLogicador/Calculadora/assets/113561981/b366e566-1782-43fd-aec9-3cb3dad3654b)
+
+![Vídeo sem título ‐ Feito com o Clipchamp (1)](https://github.com/pLogicador/Calculadora/assets/113561981/e3cc83c2-041d-40e4-8f22-300571f5f7c3)
 
 
 
