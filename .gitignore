@@ -2,3 +2,7 @@
 calculator/CMakeLists.txt
 calculator/mainwindow.ui
 calculator/CMakeLists.txt.user
+instalador_calculator/
+out/build/x64-Debug
+.cmake/api/v1/query/client-MicrosoftVS
+CMakeFiles
