@@ -1,4 +1,4 @@
-# Calculadora
+# Calculadora Desktop e Web
 
 Este é um projeto que inclui duas calculadoras: uma versão de desktop desenvolvida em C++ e outra versão web desenvolvida em JavaScript, HTML e CSS.
 
