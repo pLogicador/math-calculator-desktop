@@ -45,19 +45,25 @@ A uma calculadora web simples, foi desenvolvida em JavaScript, HTML e CSS, inspi
 
 ![capturaCalculadoraWeb](https://github.com/pLogicador/Calculadora/assets/113561981/3a51cc56-2e1e-45ff-8a1f-86bdce08c6e1)
 
+
+### Como Usar
+
+1. Abra o arquivo [index.html](https://github.com/pLogicador/Calculadora/blob/main/index.html) em seu navegador web.
+2. Use os botões numéricos e de operadores para inserir e calcular expressões matemáticas.
+3. O visor exibirá o resultado da operação atual.
+4. Você pode limpar a entrada pressionando o botão "C" ou trocar o sinal de um número pressionando "+/-".
+5. Para calcular a porcentagem de um número, insira o número, pressione "%", e em seguida, pressione "=".
+
+## 
+
 ### Recursos Principais
 
 - Realiza operações matemáticas básicas, como adição, subtração, multiplicação e divisão.
 - Possui funcionalidades adicionais, como trocar o sinal de um número, calcular a porcentagem e limpar a entrada.
 - Interface de usuário simples e intuitiva.
 
-### Como Usar
+Ambas as versões, desktop e web, oferecem os mesmos recursos para facilitar seus cálculos.
 
-1. Abra o arquivo `index.html` em seu navegador web.
-2. Use os botões numéricos e de operadores para inserir e calcular expressões matemáticas.
-3. O visor exibirá o resultado da operação atual.
-4. Você pode limpar a entrada pressionando o botão "C" ou trocar o sinal de um número pressionando "+/-".
-5. Para calcular a porcentagem de um número, insira o número, pressione "%", e em seguida, pressione "=".
 
 ### Tecnologias Utilizadas
 
