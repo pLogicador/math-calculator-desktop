@@ -54,6 +54,13 @@ A uma calculadora web simples, foi desenvolvida em JavaScript, HTML e CSS, inspi
 4. Você pode limpar a entrada pressionando o botão "C" ou trocar o sinal de um número pressionando "+/-".
 5. Para calcular a porcentagem de um número, insira o número, pressione "%", e em seguida, pressione "=".
 
+### Links para os Arquivos da versão Web
+
+- [Arquivo JavaScript da Calculadora Web](https://github.com/pLogicador/Calculadora/blob/main/js/script.js)
+- [Arquivo CSS da Calculadora Web](https://github.com/pLogicador/Calculadora/blob/main/styles/style.css)
+
+
+
 ## 
 
 ### Recursos Principais
