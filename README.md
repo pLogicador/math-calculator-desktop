@@ -84,5 +84,6 @@ Ambas as versões, desktop e web, oferecem os mesmos recursos para facilitar seu
 
 Sinta-se à vontade para contribuir com melhorias ou correções para este projeto.
 
-Desenvolvido por Pedro Miranda - [GitHub](https://github.com/pLogicador)
 Veja você mesmo: [Calculadora Web](https://plogicador.github.io/Calculadora/)
+
+*Este projeto foi desenvolvido por [pLogicador](https://github.com/pLogicador) e é distribuído sob a licença MIT License*
