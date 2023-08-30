@@ -18,14 +18,15 @@ Siga as instruções abaixo para experimentar a calculadora:
 
 2. Em seguida, acesse a pasta 'installer_calculator' para encontrar o [arquivo executável](https://github.com/pLogicador/Calculadora/tree/main/instalador_calculator). Por favor, note que esta versão executável pode estar desatualizada em relação à versão atual dos scripts (26/08/23). Você pode executar este arquivo para experimentar a calculadora, mas recomendo verificar periodicamente este repositório para atualizações e melhorias no executável.
 
-## Captura da calculadora versão desktop 
+### Captura da calculadora Desktop 
 
 Abaixo está uma captura de tela atual da calculadora em execução diretamente no Qt Creator em 26/08/2023:
 
 
-![Vídeo sem título ‐ Feito com o Clipchamp (1)](https://github.com/pLogicador/Calculadora/assets/113561981/e3cc83c2-041d-40e4-8f22-300571f5f7c3)
+![capturaCalcCpp](https://github.com/pLogicador/Calculadora/assets/113561981/d3cadd52-ee15-45ee-b62b-59da5a52fce1) 
 
 
+<br><br>
 ### Próximos Passos
 
 Este é um projeto em andamento, e estou trabalhando continuamente para aprimorar a calculadora. Fique atento para futuras atualizações e melhorias.
