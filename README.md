@@ -1,8 +1,6 @@
-# Calculadora Desktop e Web
+# Calculadora Desktop 
 
-Este é um projeto que inclui duas calculadoras: uma versão de desktop desenvolvida em C++ e outra versão web desenvolvida em JavaScript, HTML e CSS.
-
-## Calculadora Desktop
+Este é um projeto que inclui uma calculadoras versão de desktop desenvolvida em C++ 
 
 ### Descrição
 
@@ -18,7 +16,7 @@ Siga as instruções abaixo para experimentar a calculadora:
 
 2. Em seguida, acesse a pasta 'installer_calculator' para encontrar o [arquivo executável](https://github.com/pLogicador/Calculadora/tree/main/instalador_calculator). Por favor, note que esta versão executável pode estar desatualizada em relação à versão atual dos scripts (26/08/23). Você pode executar este arquivo para experimentar a calculadora, mas recomendo verificar periodicamente este repositório para atualizações e melhorias no executável.
 
-### Captura da calculadora Desktop 
+### Captura 
 
 Abaixo está uma captura de tela atual da calculadora em execução diretamente no Qt Creator em 26/08/2023:
 
@@ -32,55 +30,6 @@ Abaixo está uma captura de tela atual da calculadora em execução diretamente 
 Este é um projeto em andamento, e estou trabalhando continuamente para aprimorar a calculadora. Fique atento para futuras atualizações e melhorias.
 
 Se tiver alguma dúvida, encontrar algum bug ou tiver sugestões, sinta-se à vontade para entrar em contato comigo.
-
-Aproveite a calculadora!
-
-
-## Calculadora Web
-
-### Descrição
-
-A uma calculadora web simples, foi desenvolvida em JavaScript, HTML e CSS, inspirada na calculadora versão desktop anteriormente criada em C++. Ela oferece uma maneira intuitiva e acessível de realizar cálculos diretamente no seu navegador web.
-
-### Captura da Calculadora Web em execução
-
-![capturaCalculadoraWeb](https://github.com/pLogicador/Calculadora/assets/113561981/3a51cc56-2e1e-45ff-8a1f-86bdce08c6e1)
-
-
-### Como Usar
-
-1. Abra o arquivo [index.html](https://github.com/pLogicador/Calculadora/blob/main/index.html) em seu navegador web.
-2. Use os botões numéricos e de operadores para inserir e calcular expressões matemáticas.
-3. O visor exibirá o resultado da operação atual.
-4. Você pode limpar a entrada pressionando o botão "C" ou trocar o sinal de um número pressionando "+/-".
-5. Para calcular a porcentagem de um número, insira o número, pressione "%", e em seguida, pressione "=".
-
-### Links para os Arquivos da versão Web
-
-- [Arquivo JavaScript da Calculadora Web](https://github.com/pLogicador/Calculadora/blob/main/js/script.js)
-- [Arquivo CSS da Calculadora Web](https://github.com/pLogicador/Calculadora/blob/main/styles/style.css)
-
-
-
-## 
-
-### Recursos Principais
-
-- Realiza operações matemáticas básicas, como adição, subtração, multiplicação e divisão.
-- Possui funcionalidades adicionais, como trocar o sinal de um número, calcular a porcentagem e limpar a entrada.
-- Interface de usuário simples e intuitiva.
-
-Ambas as versões, desktop e web, oferecem os mesmos recursos para facilitar seus cálculos.
-
-
-### Tecnologias Utilizadas
-
-- C++: Linguagem de programação usada para desenvolver a calculadora desktop.
-- JavaScript: Para a lógica da calculadora web.
-- HTML: Para a estrutura da página web.
-- CSS: Para o estilo e layout da calculadora web.
-
-### Contribuição
 
 Sinta-se à vontade para contribuir com melhorias ou correções para este projeto.
 
